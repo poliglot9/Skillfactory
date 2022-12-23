@@ -18,8 +18,8 @@ body * {
     justify-content: space-between;
     height: 83px;
     align-items: center;
-    padding-left: 90px;
-    padding-right: 90px;
+    padding-left: 0px;
+    padding-right:0px;
 
 }
 
@@ -166,7 +166,7 @@ div {
     list-style: none;
     width: 95%;
     margin: 30px 20px;
-    padding-left: 460px;
+    padding-left: 220px;
     gap: 60px;
 }
 
@@ -937,7 +937,7 @@ div {
 .camera3-img {
     margin: 0 9px;
     margin-bottom: 5px;
-    padding-left: 46.5%;
+    padding-left: 44.5%;
 
 }
 
@@ -1137,3 +1137,5 @@ div {
     height: 10%;
     background: rgba(255, 255, 255, 0.9);
 }
+
+
